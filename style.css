@@ -24,7 +24,7 @@ hr {
 }
 
 .container-center {
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
 }
 
@@ -64,7 +64,7 @@ hr {
 }
 
 .navigation .nav-brand {
-    font-size: 2rem;
+    font-size: 1rem;
     text-align: left;
 }
 
